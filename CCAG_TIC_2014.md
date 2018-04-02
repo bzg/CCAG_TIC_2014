@@ -1,4 +1,8 @@
-﻿Version du 26 Février 2014.
+﻿**Conseils à la rédaction de clauses de propriété intellectuelle pour les marchés de développement et de maintenance de logiciels libres**
+
+Agence du Patrimoine Immatériel de l’État
+
+Version du 26 Février 2014.
 
 
 # Sommaire
