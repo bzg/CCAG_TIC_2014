@@ -1,7 +1,7 @@
-﻿#+TITLE: CONSEILS A LA REDACTION DE CLAUSES DE PROPRIETE INTELLECTUELLE POUR LES MARCHES DE DEVELOPPEMENT ET DE MAINTENANCE DE LOGICIELS LIBRES
-#+AUTHOR: Agence du Patrimoine Immatériel de l’État
+﻿# CONSEILS A LA REDACTION DE CLAUSES DE PROPRIETE INTELLECTUELLE POUR LES MARCHES DE DEVELOPPEMENT ET DE MAINTENANCE DE LOGICIELS LIBRES
+# AUTHOR: Agence du Patrimoine Immatériel de l’État
 
-(version du 26 Février 2014)
+Version du 26 Février 2014.
 
 * SOMMAIRE
 
@@ -238,7 +238,7 @@
      éventuelle des clauses de garantie et de responsabilité dans
      l’exécution des prestations du titulaire du marché.
 
-*** (Précision Optionnellle de l’article 31)
+*** (Précision Optionnelle de l’article 31)
 
 **** Proposition de rédaction
 

@@ -1,4 +1,4 @@
-﻿(version du 26 Février 2014)
+﻿Version du 26 Février 2014.
 
 
 # SOMMAIRE
@@ -17,17 +17,17 @@
 Depuis une dizaine d'années, le logiciel libre s'installe comme un
 composant incontournable du système d'information des administrations.
 
-La [circulaire](http://circulaire.legifrance.gouv.fr/pdf/2012/09/cir_35837.pdf) du premier ministre en date du 19 septembre 2012
-propose une série d’orientations et de recommandations sur le bon
-usage du logiciel libre dans l’administration.
+La [circulaire](http://circulaire.legifrance.gouv.fr/pdf/2012/09/cir_35837.pdf) du premier ministre en date du 19 septembre 2012 propose
+une série d’orientations et de recommandations sur le bon usage du
+logiciel libre dans l’administration.
 
 Le Cahier des Clauses Administratives Générales applicables aux
-marchés publics de Techniques de l'Information et de la
-Communication (le [CCAG-TIC](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021158580&dateTexte=20131211)) offre un dispositif contractuel aux
-acheteurs publics qui s’y réfèrent expressément. Si ce document évoque
-quelques aspects relatifs aux logiciels libres (article 30.7 en
-matière de garantie et article 36.2 au titre des connaissances
-antérieures), certaines stipulations méritent d’être précisées.
+marchés publics de Techniques de l'Information et de la Communication
+(le [CCAG-TIC](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000021158580&dateTexte=20131211)) offre un dispositif contractuel aux acheteurs publics
+qui s’y réfèrent expressément. Si ce document évoque quelques aspects
+relatifs aux logiciels libres (article 30.7 en matière de garantie et
+article 36.2 au titre des connaissances antérieures), certaines
+stipulations méritent d’être précisées.
 
 L'objet de ce document est de proposer des exemples de rédactions à
 insérer dans le cahier des clauses administratives particulières
@@ -85,12 +85,12 @@ tableau dont :
     Le pouvoir adjudicateur a retenu l’offre du titulaire du marché pour
     réaliser des opérations de maintenance corrective et adaptative telles
     que décrites à l'article [xxx du présent CCAP] sur le Logiciel.
-    
-    -   Commentaire
-    
-        Il est important d’insérer dans les CCAP un article qui a pour
-        objectif de rappeler le contexte dans lequel s’inscrit l’appel
-        d’offres.
+
+-   Commentaire
+
+    Il est important d’insérer dans les CCAP un article qui a pour
+    objectif de rappeler le contexte dans lequel s’inscrit l’appel
+    d’offres.
 
 
 ### Absence de stipulation particulière dans le CCAG-TIC
@@ -106,26 +106,26 @@ tableau dont :
     Le titulaire du marché a pris connaissance de la Licence et s’engage à
     en respecter les termes dans le cadre de la prestation de maintenance,
     objet du marché.
-    
-    -   Commentaire
-    
-        **A insérer, par exemple, dans un paragraphe « Nature et étendue des prestations » du CCAP et en renvoyant à la définition des missions du CCTP**
+
+-   Commentaire
+
+    **A insérer, par exemple, dans un paragraphe « Nature et étendue des prestations » du CCAP et en renvoyant à la définition des missions du CCTP**
 
 -   Proposition de rédaction
 
     Le titulaire met tout en œuvre pour réaliser le reversement et
     l'intégration ,dans la souche communautaire du Logiciel, des résultats
     de son activité de maintenance.
-    
-    -   Commentaire
-    
-        Reverser les résultats d'une maintenance consiste à communiquer à la
-        communauté du logiciel libre les codes sources et documentations
-        afférents. Cet engagement est fondamental, car sinon les anomalies
-        corrigées au seul bénéfice de l'administration risquent de se
-        présenter à nouveau avec le déploiement d'une nouvelle version
-        communautaire, nécessitant à nouveau un correctif.  L’obligation de
-        reversement est décrite dans la suite du présent document.
+
+-   Commentaire
+
+    Reverser les résultats d'une maintenance consiste à communiquer à la
+    communauté du logiciel libre les codes sources et documentations
+    afférents. Cet engagement est fondamental, car sinon les anomalies
+    corrigées au seul bénéfice de l'administration risquent de se
+    présenter à nouveau avec le déploiement d'une nouvelle version
+    communautaire, nécessitant à nouveau un correctif.  L’obligation de
+    reversement est décrite dans la suite du présent document.
 
 
 ### Article 2 Définitions
@@ -141,29 +141,30 @@ tableau dont :
     éventuelles prévues dans la Licence, au moins l'exercice des quatre
     libertés suivantes : d’utiliser, de copier, de modifier et de diffuser
     les modifications.
-    
-    -   Commentaire
-    
-        Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
-        c'est pourquoi cet article en rappelle les principales
-        caractéristiques opératoires, déterminantes pour la réalisation des
-        prestations exigées.
+
+-   Commentaire
+
+    Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
+    c'est pourquoi cet article en rappelle les principales
+    caractéristiques opératoires, déterminantes pour la réalisation des
+    prestations exigées.
 
 
 ### Article 14  Pénalités de retard
 
-Par dérogation à l’article 14 du CCAG TIC, le titulaire du marché
-encourt, en cas de non-respect des délais mentionnés à l’article [X]
-« Obligation de reversement », une pénalité calculée comme suit :
+-   Proposition de rédaction
 
-P = ( V x R ) / 250 où :
-
--   P est le montant de la pénalité ;
-
--   V correspond au montant du forfait de maintenance [A définir s'il
-    s'agit du forfait annuel, trimestriel ou mensuel] ;
-
--   R correspond au nombre de jours de retard.
+    Par dérogation à l’article 14 du CCAG TIC, le titulaire du marché
+    encourt, en cas de non-respect des délais mentionnés à l’article
+    [X] « Obligation de reversement », une pénalité calculée comme
+    suit : P = ( V x R ) / 250 où :
+    
+    -   P est le montant de la pénalité ;
+    
+    -   V correspond au montant du forfait de maintenance [A définir s'il
+        s'agit du forfait annuel, trimestriel ou mensuel] ;
+    
+    -   R correspond au nombre de jours de retard.
 
 -   Commentaire
 
@@ -180,16 +181,16 @@ P = ( V x R ) / 250 où :
 -   Proposition de rédaction
 
     Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué3
+
+-   Commentaire
+
+    Il est indispensable de déroger expressément à cet article. Le
+    titulaire doit garantir le bon fonctionnement du logiciel objet du
+    marché de maintenance.
     
-    -   Commentaire
-    
-        Il est indispensable de déroger expressément à cet article. Le
-        titulaire doit garantir le bon fonctionnement du logiciel objet du
-        marché de maintenance.
-        
-        Ainsi, dans la suite du présent document, nous nous attacherons à
-        compléter les articles suivants du CCAG afin d’appréhender le domaine
-        du logiciel libre.
+    Ainsi, dans la suite du présent document, nous nous attacherons à
+    compléter les articles suivants du CCAG afin d’appréhender le domaine
+    du logiciel libre.
 
 
 ## Définition des opérations de maintenance
@@ -209,16 +210,16 @@ P = ( V x R ) / 250 où :
     -   aux spécifications de la version en cause lorsqu’elles existent ;
     -   aux indications des guides d’installation, d’exploitation ou d’utilisation de la version en cause ;
     -   au comportement observé avec des logiciels équivalents.
-    
-    -   Commentaire
-    
-        La notion de maintenance corrective que définit succinctement le
-        CCAG-TIC est précisée, car les logiciels libres ne bénéficient pas
-        toujours d'une description exhaustive de leurs fonctionnalités,
-        opposable en cas de dysfonctionnement. La définition proposée,
-        particulièrement le dernier item « au comportement observé avec des
-        logiciels équivalents », élargit les références possibles pour
-        caractériser une anomalie.
+
+-   Commentaire
+
+    La notion de maintenance corrective que définit succinctement le
+    CCAG-TIC est précisée, car les logiciels libres ne bénéficient pas
+    toujours d'une description exhaustive de leurs fonctionnalités,
+    opposable en cas de dysfonctionnement. La définition proposée,
+    particulièrement le dernier item « au comportement observé avec des
+    logiciels équivalents », élargit les références possibles pour
+    caractériser une anomalie.
 
 -   Proposition de rédaction
 
@@ -230,35 +231,35 @@ P = ( V x R ) / 250 où :
     particulier, cette maintenance ne doit pas donner lieu à la réécriture
     de fonctionnalités initialement dévolues à l'environnement
     d'exécution.
+
+-   Commentaire
+
+    La notion de maintenance adaptative n'existe pas dans le CCAG-TIC. Son
+    intérêt est spécifique au logiciel libre qui, en garantissant l'accès
+    au code source, permet le fonctionnement du logiciel dans de multiples
+    environnements d'exécution (couple architecture physique/système
+    d'exploitation) au moyen d'opérations limitées (configuration et
+    recompilation).
     
-    -   Commentaire
-    
-        La notion de maintenance adaptative n'existe pas dans le CCAG-TIC. Son
-        intérêt est spécifique au logiciel libre qui, en garantissant l'accès
-        au code source, permet le fonctionnement du logiciel dans de multiples
-        environnements d'exécution (couple architecture physique/système
-        d'exploitation) au moyen d'opérations limitées (configuration et
-        recompilation).
-        
-        La définition précise des opérations de maintenance attendue de la
-        part du prestataire est essentielle notamment pour la mise en œuvre
-        éventuelle des clauses de garantie et de responsabilité dans
-        l’exécution des prestations du titulaire du marché.
+    La définition précise des opérations de maintenance attendue de la
+    part du prestataire est essentielle notamment pour la mise en œuvre
+    éventuelle des clauses de garantie et de responsabilité dans
+    l’exécution des prestations du titulaire du marché.
 
 
-### (Précision Optionnellle de l’article 31)
+### (Précision Optionnelle de l’article 31)
 
 -   Proposition de rédaction
 
     Par dérogation à l'article 31 du CCAG-TIC, il n'est pas prévu de
     maintenance évolutive.
-    
-    -   Commentaire
-    
-        L’objet de la 1ère partie de ce document ne traite pas de la
-        maintenance évolutive. Sa définition n’est pas utile mais peut
-        néanmoins être conservée au stade des définitions de l’article 31. Ces
-        prestations seront exclues du périmètre de l’exécution.
+
+-   Commentaire
+
+    L’objet de la 1ère partie de ce document ne traite pas de la
+    maintenance évolutive. Sa définition n’est pas utile mais peut
+    néanmoins être conservée au stade des définitions de l’article 31. Ces
+    prestations seront exclues du périmètre de l’exécution.
 
 
 ## Droits du titulaire du marché pour réaliser les opérations de  maintenance sur le logiciel
@@ -283,17 +284,17 @@ P = ( V x R ) / 250 où :
 
     Le pouvoir adjudicateur et le titulaire du marché sont licenciés du
     Logiciel  indépendamment l'un de l'autre par l’effet de la Licence.
+
+-   Commentaire
+
+    La simple utilisation d’un logiciel libre, signifie, en principe, que
+    l’on a adhéré au préalable à la licence.
     
-    -   Commentaire
-    
-        La simple utilisation d’un logiciel libre, signifie, en principe, que
-        l’on a adhéré au préalable à la licence.
-        
-        Le titulaire du marché dispose, selon les principes communs à toutes
-        les licences libres, du droit de modifier le logiciel et de
-        communiquer ses modifications à des tiers. Le pouvoir adjudicateur, de
-        son côté, dispose du droit d'utiliser librement le logiciel avec ou
-        sans modifications, selon les termes de la licence.
+    Le titulaire du marché dispose, selon les principes communs à toutes
+    les licences libres, du droit de modifier le logiciel et de
+    communiquer ses modifications à des tiers. Le pouvoir adjudicateur, de
+    son côté, dispose du droit d'utiliser librement le logiciel avec ou
+    sans modifications, selon les termes de la licence.
 
 
 ### Article B38 (relatif à l’option B de l’artcile 38)
@@ -305,13 +306,13 @@ P = ( V x R ) / 250 où :
     pouvoir adjudicateur à compter de la livraison et sous condition
     résolutoire de la réception des Résultats, l'ensemble des droits
     d'exploitation afférents à ces Résultats.
-    
-    -   Commentaire
-    
-        Cet article organise une cession non-exclusive de l'ensemble des
-        droits patrimoniaux sur les résultats des travaux de maintenance
-        permettant ainsi leur utilisation sans restriction par
-        l'administration.
+
+-   Commentaire
+
+    Cet article organise une cession non-exclusive de l'ensemble des
+    droits patrimoniaux sur les résultats des travaux de maintenance
+    permettant ainsi leur utilisation sans restriction par
+    l'administration.
 
 
 ### Article B38 (relatif à l’option B de l’artcile 38)
@@ -344,21 +345,21 @@ P = ( V x R ) / 250 où :
     d'auteur. Cette cession permet au pouvoir adjudicateur de mettre à
     disposition des tiers les Développements sous le régime de la
     Licence.
+
+-   Commentaire
+
+    Cette disposition permet à l'administration de diffuser le correctif
+    (ou le Logiciel) à des utilisateurs tiers sous le régime de la
+    Licence, indépendamment du reversement des travaux de maintenance.
     
-    -   Commentaire
-    
-        Cette disposition permet à l'administration de diffuser le correctif
-        (ou le Logiciel) à des utilisateurs tiers sous le régime de la
-        Licence, indépendamment du reversement des travaux de maintenance.
-        
-        L'exigence que les versions correctives et adaptatives conservent la
-        licence d'origine du logiciel n'est pas utile pour un logiciel sous
-        une licence de type « copyleft » puisque la licence elle-même exige
-        que les versions dérivées du logiciel conservent la licence
-        d'origine. En revanche, cette disposition est nécessaire pour les
-        logiciels sous des licences non « copyleft » de type académique
-        (Apache, BSD ou MIT) Par défaut, cette exigence est posée dans le
-        CCAP.
+    L'exigence que les versions correctives et adaptatives conservent la
+    licence d'origine du logiciel n'est pas utile pour un logiciel sous
+    une licence de type « copyleft » puisque la licence elle-même exige
+    que les versions dérivées du logiciel conservent la licence
+    d'origine. En revanche, cette disposition est nécessaire pour les
+    logiciels sous des licences non « copyleft » de type académique
+    (Apache, BSD ou MIT) Par défaut, cette exigence est posée dans le
+    CCAP.
 
 -   Proposition de rédaction
 
@@ -366,11 +367,11 @@ P = ( V x R ) / 250 où :
     peut exploiter sous toute forme et sans aucune restriction les
     Résultats à la condition de respecter les droits du pouvoir
     adjudicateur.
-    
-    -   Commentaire
-    
-        En conséquence d'une cession non-exclusive des résultats de la
-        maintenance, le titulaire est libre d'exploiter les résultats.
+
+-   Commentaire
+
+    En conséquence d'une cession non-exclusive des résultats de la
+    maintenance, le titulaire est libre d'exploiter les résultats.
 
 -   Proposition de rédaction
 
@@ -380,17 +381,17 @@ P = ( V x R ) / 250 où :
     L. 122-6 du code de la propriété intellectuelle dans le cadre
     strictement nécessaire aux opérations de maintenance définies à
     l'article [XXX du CCAP].
+
+-   Commentaire
+
+    Les droits portant sur le logiciel sont définis par l’article L. 122-6
+    du code de la propriété intellectuelle4.
     
-    -   Commentaire
-    
-        Les droits portant sur le logiciel sont définis par l’article L. 122-6
-        du code de la propriété intellectuelle4.
-        
-        Compte tenu de l’absence de signature formelle d’un contrat de cession
-        de droits entre le titulaire du marché et l’auteur du logiciel libre,
-        l’objectif de cet article est d’obliger le titulaire du marché à
-        respecter les dispositions de la licence qui régissent le logiciel,
-        objet des opérations de maintenance.
+    Compte tenu de l’absence de signature formelle d’un contrat de cession
+    de droits entre le titulaire du marché et l’auteur du logiciel libre,
+    l’objectif de cet article est d’obliger le titulaire du marché à
+    respecter les dispositions de la licence qui régissent le logiciel,
+    objet des opérations de maintenance.
 
 -   Proposition de rédaction
 
@@ -405,11 +406,11 @@ P = ( V x R ) / 250 où :
     s'engage à indemniser le pouvoir adjudicateur, à première demande,
     pour tout dommage direct ou indirect résultant du non-respect par le
     titulaire du marché d’une disposition de la Licence.
-    
-    -   Commentaire
-    
-        L'administration ne pourra être tenue responsable du non-respect par
-        le titulaire des droits et obligations posés par la licence.
+
+-   Commentaire
+
+    L'administration ne pourra être tenue responsable du non-respect par
+    le titulaire des droits et obligations posés par la licence.
 
 
 ## Obligation de reversement
@@ -424,20 +425,20 @@ P = ( V x R ) / 250 où :
     des Résultats, à reverser à la communauté des utilisateurs du Logiciel
     les développements réalisés dans le cadre des opérations de
     maintenance.
+
+-   Commentaire
+
+    La réception des travaux de maintenance déclenche  l'obligation de
+    reversement. Cet acte positif de l'administration impose ensuite des
+    délais.
     
-    -   Commentaire
-    
-        La réception des travaux de maintenance déclenche  l'obligation de
-        reversement. Cet acte positif de l'administration impose ensuite des
-        délais.
-        
-        Une obligation de résultat est imposée au prestataire pour le
-        reversement. Le titulaire doit prouver que le correctif a bien été
-        communiqué dans le respect des exigences posées par la communauté. En
-        revanche, un engagement de résultat concernant l'intégration des
-        travaux de maintenance n'est pas possible puisque la communauté du
-        logiciel libre, extérieure au marché de maintenance, est seule juge de
-        la pertinence de son intégration dans les futures versions.
+    Une obligation de résultat est imposée au prestataire pour le
+    reversement. Le titulaire doit prouver que le correctif a bien été
+    communiqué dans le respect des exigences posées par la communauté. En
+    revanche, un engagement de résultat concernant l'intégration des
+    travaux de maintenance n'est pas possible puisque la communauté du
+    logiciel libre, extérieure au marché de maintenance, est seule juge de
+    la pertinence de son intégration dans les futures versions.
 
 -   Proposition de rédaction
 
@@ -457,13 +458,13 @@ P = ( V x R ) / 250 où :
     l'intégration du reversement. Lorsqu'il aura eu connaissance des
     demandes de la communauté, il disposera de 5 jours ouvrés pour
     remanier et proposer de nouveau le reversement à la communauté.
-    
-    -   Commentaire
-    
-        Dans la mesure où l’obligation de reversement est une obligation de
-        résultat, il est indispensable de bien détailler ce que le titulaire
-        doit reverser, les délais et de prévoir des sanctions en cas de non
-        reversement.
+
+-   Commentaire
+
+    Dans la mesure où l’obligation de reversement est une obligation de
+    résultat, il est indispensable de bien détailler ce que le titulaire
+    doit reverser, les délais et de prévoir des sanctions en cas de non
+    reversement.
 
 
 # 2. MARCHE DE DEVELOPPEMENT DE LOGICIELS DESTINES A ETRE DISTRIBUES PAR L’ADMINISTRATION SOUS LICENCE LIBRE
@@ -517,20 +518,20 @@ les licences répondant à ces contraintes sont les licences :
     conditions qui permettent au pouvoir adjudicateur de mettre ce
     logiciel à disposition de tiers, dans les conditions posées par la
     licence annexée au présent marché ci-après dénommée « la Licence ».
+
+-   Commentaire
+
+    Il est important d’insérer dans les CCAP un article qui a pour
+    objectif de rappeler le contexte dans lequel s’inscrit l’appel
+    d’offres.
     
-    -   Commentaire
+    L'objet du marché est la réalisation d'un logiciel que le pouvoir
+    adjudicateur pourra mutualiser sous une licence de logiciel libre avec
+    d'autres administrations voire des opérateurs privés.
     
-        Il est important d’insérer dans les CCAP un article qui a pour
-        objectif de rappeler le contexte dans lequel s’inscrit l’appel
-        d’offres.
-        
-        L'objet du marché est la réalisation d'un logiciel que le pouvoir
-        adjudicateur pourra mutualiser sous une licence de logiciel libre avec
-        d'autres administrations voire des opérateurs privés.
-        
-        La licence libre sous laquelle l’administration envisage de mettre à
-        disposition le logiciel est clairement indiquée et annexée au marché
-        afin de cadrer précisément l'exercice.
+    La licence libre sous laquelle l’administration envisage de mettre à
+    disposition le logiciel est clairement indiquée et annexée au marché
+    afin de cadrer précisément l'exercice.
 
 
 ### Article 2 Définitions
@@ -546,12 +547,12 @@ les licences répondant à ces contraintes sont les licences :
     éventuelles prévues dans la Licence, au moins l'exercice des quatre
     libertés suivantes : d’utiliser, de copier, de modifier et de diffuser
     les modifications.
-    
-    -   Commentaire
-    
-        Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
-        c'est pourquoi cet article en rappelle les principales
-        caractéristiques qui sont déterminantes pour la réalisation du marché.
+
+-   Commentaire
+
+    Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
+    c'est pourquoi cet article en rappelle les principales
+    caractéristiques qui sont déterminantes pour la réalisation du marché.
 
 
 ### Article 30.7
@@ -559,16 +560,16 @@ les licences répondant à ces contraintes sont les licences :
 -   Proposition de rédaction
 
     Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
+
+-   Commentaire
+
+    Il est indispensable de déroger à cet article. Le titulaire du marché
+    doit en effet garantir le pouvoir adjudicateur si des composants sous
+    licence libre sont intégrés au logiciel développé.
     
-    -   Commentaire
-    
-        Il est indispensable de déroger à cet article. Le titulaire du marché
-        doit en effet garantir le pouvoir adjudicateur si des composants sous
-        licence libre sont intégrés au logiciel développé.
-        
-        Ainsi, dans la suite du présent document, nous nous attacherons à
-        compléter  les articles suivants du CCAG afin d’appréhender le domaine
-        du logiciel libre.
+    Ainsi, dans la suite du présent document, nous nous attacherons à
+    compléter  les articles suivants du CCAG afin d’appréhender le domaine
+    du logiciel libre.
 
 
 ## Droits d'auteur - Cession à titre non exclusif des droits portant sur les résultats du marché
@@ -642,41 +643,41 @@ les licences répondant à ces contraintes sont les licences :
     documentation d’utilisation (manuel de l’utilisateur, aide en ligne),
     sont livrés simultanément à la remise du code objet (code
     exécutable).
+
+-   Commentaire
+
+    Le CCAG-TIC prévoit un régime spécifique pour les connaissances
+    antérieures qui sont définies par l’article 35.3 du CCAG TIC.
     
-    -   Commentaire
+    La définition des connaissances antérieures vise notamment les
+    composants logiciels qui appartiennent à des tiers ou qui sont sous
+    licence libre, sur la base desquels le logiciel objet du marché est
+    développé par le titulaire.
     
-        Le CCAG-TIC prévoit un régime spécifique pour les connaissances
-        antérieures qui sont définies par l’article 35.3 du CCAG TIC.
-        
-        La définition des connaissances antérieures vise notamment les
-        composants logiciels qui appartiennent à des tiers ou qui sont sous
-        licence libre, sur la base desquels le logiciel objet du marché est
-        développé par le titulaire.
-        
-        L’article 36 du CCAG-TIC prévoit une concession des droits portant sur
-        les connaissances antérieures limitée à l’exploitation des
-        résultats. En application de cet article le pouvoir adjudicateur n’est
-        pas autorisé à mettre à disposition de tiers les connaissances
-        antérieures.
-        
-        L’option B du CCAG-TIC organise quant à elle une cession des droits
-        patrimoniaux sur les résultats, en excluant les connaissances
-        antérieures (cf. §B.38.4.2).
-        
-        Pour permettre au pouvoir adjudicateur de mettre à disposition sous un
-        régime de licence libre le logiciel objet du marché, il est
-        indispensable de prévoir un régime juridique identique pour les
-        résultats du marché et les connaissances antérieures qui seraient
-        indissociables des développements spécifiques.
-        
-        A défaut, le pouvoir adjudicateur ne pourrait mettre à disposition de
-        tiers le résultat du marché.
-        
-        Il est donc proposé de déroger à l’article 36 du CCAG TIC pour prévoir
-        une cession à titre non exclusif des droits portant sur les
-        connaissances antérieures qui sont indissociables du résultat du
-        marché pour permettre au pouvoir adjudicateur de les mettre à
-        disposition de tiers.
+    L’article 36 du CCAG-TIC prévoit une concession des droits portant sur
+    les connaissances antérieures limitée à l’exploitation des
+    résultats. En application de cet article le pouvoir adjudicateur n’est
+    pas autorisé à mettre à disposition de tiers les connaissances
+    antérieures.
+    
+    L’option B du CCAG-TIC organise quant à elle une cession des droits
+    patrimoniaux sur les résultats, en excluant les connaissances
+    antérieures (cf. §B.38.4.2).
+    
+    Pour permettre au pouvoir adjudicateur de mettre à disposition sous un
+    régime de licence libre le logiciel objet du marché, il est
+    indispensable de prévoir un régime juridique identique pour les
+    résultats du marché et les connaissances antérieures qui seraient
+    indissociables des développements spécifiques.
+    
+    A défaut, le pouvoir adjudicateur ne pourrait mettre à disposition de
+    tiers le résultat du marché.
+    
+    Il est donc proposé de déroger à l’article 36 du CCAG TIC pour prévoir
+    une cession à titre non exclusif des droits portant sur les
+    connaissances antérieures qui sont indissociables du résultat du
+    marché pour permettre au pouvoir adjudicateur de les mettre à
+    disposition de tiers.
 
 -   Proposition de rédaction
 
@@ -691,19 +692,19 @@ les licences répondant à ces contraintes sont les licences :
     Le titulaire du marché est seul responsable de l’analyse et du respect
     des dispositions des licences [libres] couvrant les composants
     intégrés.
+
+-   Commentaire
+
+    L'exigence que le logiciel objet du marché soit publiable sous une
+    licence donnée entraîne que les composants utilisés pour son
+    développement doivent être sous une licence compatible avec cette
+    dernière.
     
-    -   Commentaire
-    
-        L'exigence que le logiciel objet du marché soit publiable sous une
-        licence donnée entraîne que les composants utilisés pour son
-        développement doivent être sous une licence compatible avec cette
-        dernière.
-        
-        Le rapport servira de référence en cas de litige sur la nature des
-        composants logiciels intégrés, si certains choix se révélaient
-        incompatibles, il serait de la responsabilité du prestataire de
-        remplacer les composants fautifs par toute autre solution
-        fonctionnellement équivalente.
+    Le rapport servira de référence en cas de litige sur la nature des
+    composants logiciels intégrés, si certains choix se révélaient
+    incompatibles, il serait de la responsabilité du prestataire de
+    remplacer les composants fautifs par toute autre solution
+    fonctionnellement équivalente.
 
 
 ### Article B.38 (relatif à l’option B  de l’article 38)
@@ -796,16 +797,16 @@ les licences répondant à ces contraintes sont les licences :
     remplacer la connaissance antérieure qui ne permettrait pas au pouvoir
     adjudicateur de diffuser et de mettre à disposition le logiciel objet
     du marché sous la Licence.
+
+-   Commentaire
+
+    A noter, que le titulaire est déjà tenu à ce remplacement  sans frais
+    supplémentaire . Ceci du fait  que cela  est déjà inclus au titre de
+    la passation du marché et notamment de la garantie contre tout recours
+    d’un tiers.
     
-    -   Commentaire
-    
-        A noter, que le titulaire est déjà tenu à ce remplacement  sans frais
-        supplémentaire . Ceci du fait  que cela  est déjà inclus au titre de
-        la passation du marché et notamment de la garantie contre tout recours
-        d’un tiers.
-        
-        La précision du « à ses frais »  est donc optionnelle. Mais permet de
-        mettre en évidence ce fait.
+    La précision du « à ses frais »  est donc optionnelle. Mais permet de
+    mettre en évidence ce fait.
 
 
 # 3. MARCHE DE MAINTENANCE EVOLUTIVE D'UN LOGICIEL LIBRE ET PROPRIETE INTELLECTUELLE
@@ -1024,13 +1025,13 @@ recettés par le pouvoir adjudicateur.
     éventuelles prévues dans la Licence, au moins l'exercice des quatre
     libertés suivantes : d’utiliser, de copier, de modifier et de diffuser
     les modifications.
-    
-    -   Commentaire
-    
-        Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
-        c'est pourquoi cet article en rappelle les principales
-        caractéristiques opératoires, déterminantes pour la réalisation des
-        prestations exigées.
+
+-   Commentaire
+
+    Le CCAG-TIC ne définit pas ce qu'est une licence de logiciel libre,
+    c'est pourquoi cet article en rappelle les principales
+    caractéristiques opératoires, déterminantes pour la réalisation des
+    prestations exigées.
 
 
 ### Article 30.7
@@ -1038,16 +1039,16 @@ recettés par le pouvoir adjudicateur.
 -   Proposition de rédaction
 
     Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+
+-   Commentaire
+
+    Il est indispensable de déroger expressément à cet article. Le
+    titulaire doit garantir le bon fonctionnement du logiciel objet du
+    marché de maintenance.
     
-    -   Commentaire
-    
-        Il est indispensable de déroger expressément à cet article. Le
-        titulaire doit garantir le bon fonctionnement du logiciel objet du
-        marché de maintenance.
-        
-        Ainsi, dans la suite du présent document, nous nous attacherons à
-        compléter  les articles suivants du CCAG afin d’appréhender le domaine
-        du logiciel libre.
+    Ainsi, dans la suite du présent document, nous nous attacherons à
+    compléter  les articles suivants du CCAG afin d’appréhender le domaine
+    du logiciel libre.
 
 
 ## Droits d'auteur - Cession à titre non exclusif des droits portant sur les connaissances antérieures
@@ -1083,40 +1084,40 @@ recettés par le pouvoir adjudicateur.
     Cette cession des droits sur les connaissances antérieures est
     effective tant pour la France que pour l'étranger et pour toute la
     durée de protection desdits logiciels par le droit d'auteur.
+
+-   Commentaire
+
+    Le CCAG-TIC prévoit un régime spécifique pour les connaissances
+    antérieures qui sont définies par l’article 35-3 du CCAG TIC.
     
-    -   Commentaire
+    La définition des connaissances antérieures vise notamment les
+    composants logiciels qui appartiennent à des tiers ou qui sont sous
+    licence libre, sur la base desquels le logiciel objet du marché est
+    développé par le titulaire.
     
-        Le CCAG-TIC prévoit un régime spécifique pour les connaissances
-        antérieures qui sont définies par l’article 35-3 du CCAG TIC.
-        
-        La définition des connaissances antérieures vise notamment les
-        composants logiciels qui appartiennent à des tiers ou qui sont sous
-        licence libre, sur la base desquels le logiciel objet du marché est
-        développé par le titulaire.
-        
-        L’article 36 du CCAG TIC prévoit une concession des droits portant sur
-        les connaissances antérieures limitée à l’exploitation des
-        résultats. En application de cet article le pouvoir adjudicateur n’est
-        pas autorisé à mettre à disposition de tiers les connaissances
-        antérieures.
-        
-        L’option B du CCAG-TIC organise quant à elle une cession des droits
-        patrimoniaux sur les résultats, en excluant les connaissances
-        antérieures (cf. §B.38.4.2).
-        
-        Pour permettre au pouvoir adjudicateur de mettre à disposition sous un
-        régime de licence libre le logiciel objet du marché, il est
-        indispensable de prévoir un régime juridique identique pour les
-        résultats du marché et les connaissances antérieures qui sont
-        indissociables des développements spécifiques. A défaut, le pouvoir
-        adjudicateur ne pourrait mettre à disposition de tiers le résultat du
-        marché,
-        
-        Il est donc proposé de déroger à l’article 36 du CCAG TIC pour prévoir
-        une cession à titre non exclusif des droits portant sur les
-        connaissances antérieures qui sont indissociables du Logiciel pour
-        permettre au pouvoir adjudicateur de les mettre à disposition de
-        tiers.
+    L’article 36 du CCAG TIC prévoit une concession des droits portant sur
+    les connaissances antérieures limitée à l’exploitation des
+    résultats. En application de cet article le pouvoir adjudicateur n’est
+    pas autorisé à mettre à disposition de tiers les connaissances
+    antérieures.
+    
+    L’option B du CCAG-TIC organise quant à elle une cession des droits
+    patrimoniaux sur les résultats, en excluant les connaissances
+    antérieures (cf. §B.38.4.2).
+    
+    Pour permettre au pouvoir adjudicateur de mettre à disposition sous un
+    régime de licence libre le logiciel objet du marché, il est
+    indispensable de prévoir un régime juridique identique pour les
+    résultats du marché et les connaissances antérieures qui sont
+    indissociables des développements spécifiques. A défaut, le pouvoir
+    adjudicateur ne pourrait mettre à disposition de tiers le résultat du
+    marché,
+    
+    Il est donc proposé de déroger à l’article 36 du CCAG TIC pour prévoir
+    une cession à titre non exclusif des droits portant sur les
+    connaissances antérieures qui sont indissociables du Logiciel pour
+    permettre au pouvoir adjudicateur de les mettre à disposition de
+    tiers.
 
 -   Proposition de rédaction
 
@@ -1142,14 +1143,14 @@ recettés par le pouvoir adjudicateur.
     suivantes : nom du composant, nom du ou des auteurs, source (site
     Internet par exemple) et licence. Ce rapport est remis au pouvoir
     adjudicateur avec la livraison finale du logiciel objet du marché.
-    
-    -   Commentaire
-    
-        Le rapport servira de référence en cas de litige sur la nature des
-        composants logiciels intégrés, si certains choix se révélaient
-        incompatibles, il serait de la responsabilité du prestataire de
-        remplacer les composants fautifs par toute autre solution
-        fonctionnellement équivalente (cf. Garantie du titulaire, ci-dessous)
+
+-   Commentaire
+
+    Le rapport servira de référence en cas de litige sur la nature des
+    composants logiciels intégrés, si certains choix se révélaient
+    incompatibles, il serait de la responsabilité du prestataire de
+    remplacer les composants fautifs par toute autre solution
+    fonctionnellement équivalente (cf. Garantie du titulaire, ci-dessous)
 
 
 ## Droits du titulaire du marché pour réaliser les opérations de maintenance évolutive  sur le Logiciel
@@ -1161,17 +1162,17 @@ recettés par le pouvoir adjudicateur.
 
     Le pouvoir adjudicateur et le titulaire du marché sont licenciés du
     Logiciel indépendamment l'un de l'autre par l’effet de la Licence.
+
+-   Commentaire
+
+    L’utilisation d’un logiciel libre, signifie, en principe, que l’on a
+    adhéré au préalable à la licence.
     
-    -   Commentaire
-    
-        L’utilisation d’un logiciel libre, signifie, en principe, que l’on a
-        adhéré au préalable à la licence.
-        
-        Le titulaire du marché dispose, selon les principes communs à toutes
-        les licences libres, du droit de modifier le logiciel et de
-        communiquer ses modifications à des tiers. Le pouvoir adjudicateur, de
-        son côté, dispose du droit d'utiliser librement le logiciel avec ou
-        sans modifications, selon les termes de la licence.
+    Le titulaire du marché dispose, selon les principes communs à toutes
+    les licences libres, du droit de modifier le logiciel et de
+    communiquer ses modifications à des tiers. Le pouvoir adjudicateur, de
+    son côté, dispose du droit d'utiliser librement le logiciel avec ou
+    sans modifications, selon les termes de la licence.
 
 
 ### Article B38 (relatif à l’option B de l’artcile 38)
@@ -1219,16 +1220,16 @@ recettés par le pouvoir adjudicateur.
     des tiers les Développements sous le régime de la Licence. Le
     titulaire s'engage donc à ce que les Développements demeurent sous le
     régime de la Licence.
-    
-    -   Commentaire
-    
-        L'exigence que les versions évolutives conservent la licence d'origine
-        du logiciel n'est pas utile pour un logiciel sous une licence de type
-        « copyleft » puisque la licence elle-même exige que les versions
-        dérivées du logiciel conservent la licence d'origine. En revanche,
-        cette disposition est nécessaire pour les logiciels sous des licences
-        non « copyleft » de type académique (Apache, BSD ou MIT). Par défaut,
-        cette exigence est posée dans le CCAP.
+
+-   Commentaire
+
+    L'exigence que les versions évolutives conservent la licence d'origine
+    du logiciel n'est pas utile pour un logiciel sous une licence de type
+    « copyleft » puisque la licence elle-même exige que les versions
+    dérivées du logiciel conservent la licence d'origine. En revanche,
+    cette disposition est nécessaire pour les logiciels sous des licences
+    non « copyleft » de type académique (Apache, BSD ou MIT). Par défaut,
+    cette exigence est posée dans le CCAP.
 
 -   Proposition de rédaction
 
@@ -1236,14 +1237,14 @@ recettés par le pouvoir adjudicateur.
     peut exploiter sous toute forme et sans aucune restriction les
     Résultats à la condition de respecter les droits du pouvoir
     adjudicateur.
-    
-    -   Commentaire
-    
-        En dérogeant au caractère exclusif de la cession prévu par le CCAG
-        TIC, le titulaire du marché reste libre d'exploiter les résultats dans
-        d'autres contextes, sans qu'il n'ait de compte à rendre au pouvoir
-        adjudicateur. Ce point est souligné par le dernier paragraphe de la
-        clause proposée.
+
+-   Commentaire
+
+    En dérogeant au caractère exclusif de la cession prévu par le CCAG
+    TIC, le titulaire du marché reste libre d'exploiter les résultats dans
+    d'autres contextes, sans qu'il n'ait de compte à rendre au pouvoir
+    adjudicateur. Ce point est souligné par le dernier paragraphe de la
+    clause proposée.
 
 -   Proposition de rédaction
 
@@ -1253,14 +1254,14 @@ recettés par le pouvoir adjudicateur.
     code de la propriété intellectuelle dans le cadre strictement
     nécessaire aux opérations de maintenance définies à l'article [XXX du
     CCAP].
-    
-    -   Commentaire
-    
-        Compte tenu de l’absence de signature formelle d’un contrat de cession
-        de droits entre le titulaire du marché et l’auteur du logiciel libre,
-        l’objectif de cet article est d’obliger le titulaire du marché à
-        respecter les dispositions de la licence qui régit le logiciel, objet
-        des opérations de maintenance.
+
+-   Commentaire
+
+    Compte tenu de l’absence de signature formelle d’un contrat de cession
+    de droits entre le titulaire du marché et l’auteur du logiciel libre,
+    l’objectif de cet article est d’obliger le titulaire du marché à
+    respecter les dispositions de la licence qui régit le logiciel, objet
+    des opérations de maintenance.
 
 -   Proposition de rédaction
 
@@ -1270,13 +1271,13 @@ recettés par le pouvoir adjudicateur.
     de tiers du fait du non-respect des droits et obligations posés dans
     la Licence dans sa version en vigueur au jour de la réalisation des
     opérations de maintenance.
-    
-    -   Commentaire
-    
-        Le titulaire du marché est seul responsable du respect des licences
-        pour ses actions de maintenance et il garantit qu'aucun recours de
-        tiers pour des actes de contrefaçon ne sera entrepris contre le
-        pouvoir adjudicateur.
+
+-   Commentaire
+
+    Le titulaire du marché est seul responsable du respect des licences
+    pour ses actions de maintenance et il garantit qu'aucun recours de
+    tiers pour des actes de contrefaçon ne sera entrepris contre le
+    pouvoir adjudicateur.
 
 
 ## Garantie du titulaire du marché sur les connaissances antérieures
