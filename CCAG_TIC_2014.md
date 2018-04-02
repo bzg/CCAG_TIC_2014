@@ -1,18 +1,16 @@
 ﻿Version du 26 Février 2014.
 
 
-# SOMMAIRE
+# Sommaire
 
-1.  MARCHE DE MAINTENANCE CORRECTIVE ET ADAPTATIVE DE LOGICIEL LIBRE
+1.  Marché de maintenance corrective et adaptative de logiciel libre
 
-2.  MARCHE DE DEVELOPPEMENT DE LOGICIELS DESTINES A ETRE DISTRIBUES PAR
-    L’ADMINISTRATION SOUS LICENCE LIBRE
+2.  Marché de développement de logiciels destinés à être distribués par l’administration sous licence libre
 
-3.  MARCHE DE MAINTENANCE EVOLUTIVE D'UN LOGICIEL LIBRE ET PROPRIETE
-    INTELLECTUELLE
+3.  Marché de maintenance évolutive d'un logiciel libre et propriété intellectuelle
 
 
-# PREAMBULE
+# Préambule
 
 Depuis une dizaine d'années, le logiciel libre s'installe comme un
 composant incontournable du système d'information des administrations.
@@ -44,7 +42,7 @@ du CCAG-TIC pour :
     de licence de logiciel libre.
 
 
-# 1. MARCHE DE MAINTENANCE CORRECTIVE ET ADAPTATIVE DE LOGICIEL LIBRE
+# Marché de maintenance corrective et adaptative de logiciel libre
 
 Ce chapitre vise uniquement des opérations de maintenance corrective
 et adaptative.
@@ -467,7 +465,7 @@ tableau dont :
     reversement.
 
 
-# 2. MARCHE DE DEVELOPPEMENT DE LOGICIELS DESTINES A ETRE DISTRIBUES PAR L’ADMINISTRATION SOUS LICENCE LIBRE
+# Marché de développement de logiciels destinés à être distribués par l’administration sous licence libre
 
 Les clauses proposées ci-après sont des dispositions de base destinées
 à être adaptées au cas d’espèce. Une attention particulière devra être
@@ -809,7 +807,7 @@ les licences répondant à ces contraintes sont les licences :
     mettre en évidence ce fait.
 
 
-# 3. MARCHE DE MAINTENANCE EVOLUTIVE D'UN LOGICIEL LIBRE ET PROPRIETE INTELLECTUELLE
+# Marché de maintenance évolutive d'un logiciel libre et propriété intellectuelle
 
 En préalable à l'exposé des clauses à faire figurer dans le CCAP, se
 pose la question de la forme et du type de procédure de marché
