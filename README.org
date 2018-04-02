@@ -4,7 +4,7 @@ Format éditable pour commentaires du [[https://www.economie.gouv.fr/apie/admini
 
 | Fichier                | Format                                 | But       |
 |------------------------+----------------------------------------+-----------|
-| CCAG_TIC_2014.md       | .md (conversion depuis Emacs org-mode  | PR        |
-| CCAG_TIC_2014.org      | .org (conversion manuelle depuis .txt) | PR        |
+| [[file:CCAG_TIC_2014.md][CCAG_TIC_2014.md]]       | .md (conversion depuis Emacs org-mode  | PR        |
+| [[file:CCAG_TIC_2014.org][CCAG_TIC_2014.org]]      | .org (conversion manuelle depuis .txt) | PR        |
 | refs/CCAG_TIC_2014.txt | .txt obtenu depuis LibreOffice         | Référence |
 | refs/CCAG_TIC_2014.odt |                                        | Archive   |
