@@ -299,7 +299,7 @@ tableau dont :
     sans modifications, selon les termes de la licence.
 
 
-### Article B38 (relatif à l’option B de l’artcile 38)
+### Article B38 (relatif à l’option B de l’article 38)
 
 -   Proposition de rédaction
 
@@ -317,7 +317,7 @@ tableau dont :
     l'administration.
 
 
-### Article B38 (relatif à l’option B de l’artcile 38)
+### Article B38 (relatif à l’option B de l’article 38)
 
 -   Proposition de rédaction
 
@@ -1177,7 +1177,7 @@ recettés par le pouvoir adjudicateur.
     sans modifications, selon les termes de la licence.
 
 
-### Article B38 (relatif à l’option B de l’artcile 38)
+### Article B38 (relatif à l’option B de l’article 38)
 
 -   Proposition de rédaction
 
