@@ -1,10 +1,12 @@
 #+title: CCAG_TIC_2014
 
-Format éditable pour commentaires du [[https://www.economie.gouv.fr/apie/administrations-logiciels-libres-clausier-marches-publics][CCAG_TIC_2014]].
+Format éditable pour commentaires du [[https://www.economie.gouv.fr/apie/administrations-logiciels-libres-clausier-marches-publics][CCAG_TIC_2014]] : le clausier des
+marchés publics.
 
-| Fichier                | Format                                 | But       |
-|------------------------+----------------------------------------+-----------|
-| [[file:CCAG_TIC_2014.md][CCAG_TIC_2014.md]]       | .md (conversion depuis Emacs org-mode  | PR        |
-| [[file:CCAG_TIC_2014.org][CCAG_TIC_2014.org]]      | .org (conversion manuelle depuis .txt) | PR        |
-| refs/CCAG_TIC_2014.txt | .txt obtenu depuis LibreOffice         | Référence |
-| refs/CCAG_TIC_2014.odt |                                        | Archive   |
+| Fichier                                     | Format                                 | But        |
+|---------------------------------------------+----------------------------------------+------------|
+| [[file:CCAG_TIC_2014.md][CCAG_TIC_2014.md]]                            | .md (conversion depuis Emacs org-mode  | PR         |
+| [[file:CCAG_TIC_2014.org][CCAG_TIC_2014.org]]                           | .org (conversion manuelle depuis .txt) | PR         |
+| refs/CCAG_TIC_2014.txt                      | .txt obtenu depuis LibreOffice         | Transition |
+| refs/CCAG_TIC_2014.odt                      | .odt public (non disponible)           | Archive    |
+| refs/Marches_publics_droits_PI_CCAG-TIC.pdf | .pdf public (disponible [[https://www.economie.gouv.fr/files/files/directions_services/apie/propriete_intellectuelle/publications/Marches_publics_droits_PI_CCAG-TIC.pdf][ici]])           | Référence  |
