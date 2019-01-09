@@ -386,8 +386,8 @@ tableau dont :
 
 -   Commentaire
 
-    Les droits portant sur le logiciel sont définis par l’article L. 122-6
-    du code de la propriété intellectuelle4.
+    Les droits portant sur le logiciel sont définis par l’article
+    L. 122-6 du code de la propriété intellectuelle<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
     
     Compte tenu de l’absence de signature formelle d’un contrat de cession
     de droits entre le titulaire du marché et l’auteur du logiciel libre,
@@ -561,7 +561,7 @@ les licences répondant à ces contraintes sont les licences :
 
 -   Proposition de rédaction
 
-    Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.
+    Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
 
 -   Commentaire
 
@@ -1040,7 +1040,7 @@ recettés par le pouvoir adjudicateur.
 
 -   Proposition de rédaction
 
-    Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+    Par dérogation au CCAG-TIC, son article 30.7 ne sera pas appliqué<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.
 
 -   Commentaire
 
@@ -1195,7 +1195,7 @@ recettés par le pouvoir adjudicateur.
     En application de l’article B.38 du CCAG TIC et au titre de cette
     cession des droits d'auteur, le titulaire du marché cède au pouvoir
     adjudicateur les droits mentionnés aux articles L. 122-1 et suivants
-    et L. 122-6<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> du code de la propriété intellectuelle à savoir
+    et L. 122-6<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> du code de la propriété intellectuelle à savoir
     notamment :
     
     -   Le droit de reproduction et utilisation pour quelque usage que ce
@@ -1398,17 +1398,40 @@ recettés par le pouvoir adjudicateur.
 
 # Notes de bas de page
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Article 30-7 du CCAG TIC « Les logiciels libres sont utilisés
-en l'état. Le titulaire n'est pas responsable des dommages qui
-pourraient être causés par l'utilisation, par le pouvoir adjudicateur,
-de logiciels libres dont il n'est pas l'éditeur ».
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> « Sous réserve des dispositions de l'article L. 122-6-1, le
+droit d'exploitation appartenant à l'auteur d'un logiciel comprend le
+droit d'effectuer et d'autoriser :
+
+1.  La reproduction permanente ou provisoire d'un logiciel en tout ou
+    partie par tout moyen et sous toute forme. Dans la mesure où le
+    chargement, l'affichage, l'exécution, la transmission ou le
+    stockage de ce logiciel nécessitent une reproduction, ces actes ne
+    sont possibles qu'avec l'autorisation de l'auteur ;
+
+2.  La traduction, l'adaptation, l'arrangement ou toute autre
+    modification d'un logiciel et la reproduction du logiciel en
+    résultant ;
+
+3.  La mise sur le marché à titre onéreux ou gratuit, y compris la
+    location, du ou des exemplaires d'un logiciel par tout
+    procédé. Toutefois, la première vente d'un exemplaire d'un logiciel
+    dans le territoire d'un Etat membre de la Communauté européenne ou
+    d'un Etat partie à l'accord sur l'Espace économique européen par
+    l'auteur ou avec son consentement épuise le droit de mise sur le
+    marché de cet exemplaire dans tous les Etats membres à l'exception
+    du droit d'autoriser la location ultérieure d'un exemplaire ».
 
 <sup><a id="fn.2" href="#fnr.2">2</a></sup> Article 30-7 du CCAG TIC « Les logiciels libres sont utilisés
 en l'état. Le titulaire n'est pas responsable des dommages qui
 pourraient être causés par l'utilisation, par le pouvoir adjudicateur,
 de logiciels libres dont il n'est pas l'éditeur ».
 
-<sup><a id="fn.3" href="#fnr.3">3</a></sup> « Sous réserve des dispositions de l'article L. 122-6-1, le
+<sup><a id="fn.3" href="#fnr.3">3</a></sup> Article 30-7 du CCAG TIC « Les logiciels libres sont utilisés
+en l'état. Le titulaire n'est pas responsable des dommages qui
+pourraient être causés par l'utilisation, par le pouvoir adjudicateur,
+de logiciels libres dont il n'est pas l'éditeur ».
+
+<sup><a id="fn.4" href="#fnr.4">4</a></sup> « Sous réserve des dispositions de l'article L. 122-6-1, le
 droit d'exploitation appartenant à l'auteur d'un logiciel comprend le
 droit d'effectuer et d'autoriser :
 
